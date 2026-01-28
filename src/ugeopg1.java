@@ -1,4 +1,4 @@
-public class VariableBasics     {
+public class ugeopg1 {
 String empty=("");
 
 void main(){
